@@ -85,7 +85,7 @@ def main():
 	finally :
 						print('''
 
-		SAYONARA , SEE YA SOON ;)
+		SEE YA SOON :)
 			
 ''')
 
