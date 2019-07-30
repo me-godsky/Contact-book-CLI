@@ -44,3 +44,22 @@ The tool made is made quite handy for both genearal use and also comes with some
 **[+] DOWNLOAD CONTACT** : <br><br>This advanced feature allows you to export the contact		
 				       list including all the details within it to exported 		
 				       contacts subfolder.
+## Requirements :
+	pip3 install sqlite3
+	pip3 install os
+	pip3 install shutil
+	pip3 install operator
+	pip3 install time
+	
+
+## Usage :
+1. Pull the files to a specific location using the following command : 
+	
+		git clone https://github.com/me-godsky/Contact-book-CLI.git
+	
+2. Move to tool's directory using following command :
+
+		cd Contact-book-CLI
+3. Run the tool :
+
+		python3 ContactBook.py
